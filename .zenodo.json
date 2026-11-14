@@ -1,0 +1,47 @@
+{
+  "title": "DGTF-Net: code and results for 'Gated Fusion of Adaptive Graph Attention and Temporal Transformers for Accurate Urban Traffic Congestion Prediction'",
+  "upload_type": "software",
+  "license": "MIT",
+  "version": "1.0.0",
+  "description": "Implementation of DGTF-Net, the experiment code and notebook, wrappers that run STGCN, DCRNN, Graph WaveNet (BasicTS), STAEformer, STID, AGCRN, D2STGNN and MegaCRN at pinned commits in one shared training loop, and the per-run results (122 runs on PEMS08 and PEMS04) behind every table and figure of the revised manuscript submitted to Discover Computing.",
+  "creators": [
+    {
+      "name": "Shareef, Sk Khaja",
+      "orcid": "0000-0003-1079-2665",
+      "affiliation": "Koneru Lakshmaiah Education Foundation, Hyderabad, India"
+    },
+    {
+      "name": "Reddy, N. V. Raja Sekhar",
+      "orcid": "0000-0002-8055-1499",
+      "affiliation": "BVRIT Hyderabad College of Engineering for Women, Hyderabad, India"
+    },
+    {
+      "name": "Adudhodla, Mallareddy",
+      "orcid": "0000-0002-3583-3892",
+      "affiliation": "CVR College of Engineering, Hyderabad, India"
+    },
+    {
+      "name": "Kavadi, Durga Prasad",
+      "orcid": "0000-0003-2823-8478",
+      "affiliation": "DRK Institute of Science and Technology, Hyderabad, India"
+    },
+    {
+      "name": "Suresh, Kurumalla",
+      "orcid": "0000-0003-2745-8049",
+      "affiliation": "Madanapalle Institute of Technology & Science, Madanapalle, India"
+    },
+    {
+      "name": "Jabeen, Khadija",
+      "orcid": "0009-0000-4834-9664",
+      "affiliation": "Rajeev Gandhi Memorial College of Engineering and Technology, Nandyal, India"
+    }
+  ],
+  "keywords": [
+    "traffic forecasting",
+    "graph neural network",
+    "transformer",
+    "spatio-temporal",
+    "fuzzy logic",
+    "PEMS"
+  ]
+}

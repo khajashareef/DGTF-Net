@@ -1,0 +1,8 @@
+# Versions used for the revision runs: Python 3.12, PyTorch 2.14.1 + CUDA 13.0 (NVIDIA Tesla T4)
+torch>=2.1
+numpy
+scipy
+pandas
+scikit-learn
+matplotlib
+torchinfo

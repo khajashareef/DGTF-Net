@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the article."
+title: "DGTF-Net: code and results for 'Gated Fusion of Adaptive Graph Attention and Temporal Transformers for Accurate Urban Traffic Congestion Prediction'"
+version: "1.0.0"
+date-released: "2026-11-15"
+license: MIT
+authors:
+  - family-names: Shareef
+    given-names: Sk Khaja
+    orcid: "https://orcid.org/0000-0003-1079-2665"
+    affiliation: "Koneru Lakshmaiah Education Foundation, Hyderabad, India"
+  - family-names: Reddy
+    given-names: N. V. Raja Sekhar
+    orcid: "https://orcid.org/0000-0002-8055-1499"
+    affiliation: "BVRIT Hyderabad College of Engineering for Women, Hyderabad, India"
+  - family-names: Adudhodla
+    given-names: Mallareddy
+    orcid: "https://orcid.org/0000-0002-3583-3892"
+    affiliation: "CVR College of Engineering, Hyderabad, India"
+  - family-names: Kavadi
+    given-names: Durga Prasad
+    orcid: "https://orcid.org/0000-0003-2823-8478"
+    affiliation: "DRK Institute of Science and Technology, Hyderabad, India"
+  - family-names: Suresh
+    given-names: Kurumalla
+    orcid: "https://orcid.org/0000-0003-2745-8049"
+    affiliation: "Madanapalle Institute of Technology & Science, Madanapalle, India"
+  - family-names: Jabeen
+    given-names: Khadija
+    orcid: "https://orcid.org/0009-0000-4834-9664"
+    affiliation: "Rajeev Gandhi Memorial College of Engineering and Technology, Nandyal, India"
+keywords: [traffic forecasting, graph neural network, transformer, spatio-temporal, fuzzy logic, PEMS]
